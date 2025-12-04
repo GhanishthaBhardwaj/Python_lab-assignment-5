@@ -1,3 +1,7 @@
+#Name: GHnanishtha Bhardwaj
+#Class: B.tech CSE 1st Year (AI ML) Section A
+#Roll No: 2501730296
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
@@ -142,3 +146,4 @@ with open(os.path.join(output_dir, "summary.txt"), "w") as f:
 
 print("Export complete: cleaned_energy_data.csv, building_summary.csv, summary.txt")
 print("Project Finished.")
+
